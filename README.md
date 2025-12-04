@@ -1,3 +1,26 @@
+# 🎧 High-Resolution USB DAC Project  
+### Dual CS43131 DAC + OPA1622 Headphone Amplifier
+
+This project is a custom high-performance USB digital-to-analog converter designed for portable and desktop Hi-Fi use.  
+It uses **two Cirrus Logic CS43131 DAC chips in a dual-mono configuration** for improved channel separation and dynamic range, paired with the **OPA1622 headphone amplifier** for clean, high-current analog drive.
+
+> 🚧 **Project Status: Schematic Designed**  
+USB-C input, filtering, power regulation, clocking, DAC routing and analog output architecture are complete.  
+The next phase is PCB layout, firmware validation (if required), and testing.
+
+---
+
+## 🔍 Project Goals
+
+- Studio-grade sound quality in a small footprint  
+- Extremely low output noise suitable for sensitive IEMs  
+- High-power drive capability for full-size headphones  
+- Native USB audio compatibility with phones, PCs, and audio players  
+
+---
+
+## 🧠 System Architecture
+
 
 ---
 
