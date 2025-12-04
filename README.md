@@ -88,7 +88,7 @@ Ideal for:
 
 | Task | Status |
 |------|--------|
-| Schematic Completion | ✅ Done |
+| Schematic Completion | ✅ ⏳ In Progress |
 | USB-C CC configuration + Audio validation | ⏳ Pending |
 | PCB Layout (controlled impedance routing) | ⏳ Next |
 | Prototype manufacturing | 🕒 Planned |
