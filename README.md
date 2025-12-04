@@ -4,7 +4,7 @@
 This project is a custom high-performance USB digital-to-analog converter designed for portable and desktop Hi-Fi use.  
 It uses **two Cirrus Logic CS43131 DAC chips in a dual-mono configuration** for improved channel separation and dynamic range, paired with the **OPA1622 headphone amplifier** for clean, high-current analog drive.
 
-> 🚧 **Project Status: Schematic Designed**  
+> 🚧 **Project Status: Schematic Designed(section 1-4)**  
 USB-C input, filtering, power regulation, clocking, DAC routing and analog output architecture are complete.  
 The next phase is PCB layout, firmware validation (if required), and testing.
 
